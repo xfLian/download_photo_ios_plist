@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   DownLoadPhoto.plist
+   PrivacyPhotoAlbum
+
+   Created by 连晓飞 on 2019/11/19.
+   Copyright (c) 2019 连晓飞. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://q173so3sl.bkt.clouddn.com/PrivacyPhotoAlbum.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>xfLian.com.PrivacyPhotoAlbum</string>
+                    <key>bundle-version</key>
+                    <string>1.0.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>pinglide</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
